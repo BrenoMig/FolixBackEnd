@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HKJgovQ0wAYS1gpCBI7MR5lgqTl3xuygBLBt38aCZTQ=",
+  "Source": "WebAPI_Folix",
+  "BasePath": "_content/WebAPI_Folix",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

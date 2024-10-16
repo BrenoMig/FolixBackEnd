@@ -1,0 +1,6 @@
+@WebAPI_Folix_HostAddress = http://localhost:5180
+
+GET {{WebAPI_Folix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
